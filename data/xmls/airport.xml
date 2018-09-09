@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+      <Schema name="airport_1" id="airport_1">
+        <SimpleField type="string" name="name"/>
+        <SimpleField type="string" name="size"/>
+        <SimpleField type="string" name="user"/>
+        <SimpleField type="string" name="last_modified"/>
+        <SimpleField type="string" name="date_created"/>
+      </Schema>
+      <Folder>
+        <name>airport</name>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61cc">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">BIRCHIP</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.91948773483418,-35.99805415898012</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61cd">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">LILYDALE</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.3680443140001,-37.69181968815854</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61ce">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">EAST SALE</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>147.14924005602572,-38.10050771407856</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61cf">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">ORBOST AERODROME</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>148.60793125893753,-37.79124540600002</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61d0">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">ROBINVALE</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.77639167200007,-34.64196262448594</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61d1">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">YARRAWONGA</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.0269145940001,-36.03439769693508</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61d2">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">LETHBRIDGE AIRPARK</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.1030262090001,-37.92277798979793</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61d3">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">BOORT 1 (BIGGIN HILL)</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.72058468473702,-36.13701107039781</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61d4">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">WEST SALE AIRPORT</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.9663717583642,-38.09275935538298</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61d5">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">ARARAT</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.9900248261745,-37.310550051381</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61d6">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">WYCHEPROOF</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.238036678676,-36.058899340753506</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61d7">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">MELBOURNE/MELBOURNE INTL</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.83879640200007,-37.663687371344565</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61d8">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">MARYBOROUGH</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.71018138907016,-37.032144370505655</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61d9">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">WARRNAMBOOL</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.44531070000008,-38.29504870313463</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61da">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">MELBOURNE/MOORABBIN</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.10097404185854,-37.97786484714718</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61db">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">SWAN HILL</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.53284377752144,-35.37612297333754</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61dc">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">HAMILTON</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.06534594350006,-37.65077264398843</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61dd">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">STAWELL AERODROME</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.74031617253698,-37.07295328732818</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61de">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">MOUNT HOTHAM AERODROME</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>147.33248018550006,-37.04757505732081</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61df">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">WARRACKNABEAL</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.42186390121793,-36.31685873154335</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61e0">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">LOCKSLEY FIELD</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.35030705000008,-36.812509693941024</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61e1">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">TOORADIN</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.42460419628406,-38.21602320556962</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61e2">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">TYABB (WESTERNPORT)</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.17971705371482,-38.266827023612244</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61e3">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">SEA LAKE</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.8899192060001,-35.52609083505653</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61e4">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">MOUNT BEAUTY</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>147.16931928150007,-36.73211626536922</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61e5">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">MILDURA</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.0882332387332,-34.230859070233436</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61e6">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">LATROBE REGIONAL AIRPORT</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.47096967500008,-38.209187446833745</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61e7">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">COBDEN</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.0589222220001,-38.31891640846698</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61e8">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">NHILL AERODROME</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>141.64742695969423,-36.31156078035765</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61e9">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">COLDSTREAM</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.40866509050002,-37.72810954935151</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61ea">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">HOPETOUN</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.3602982495001,-35.71339452896131</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61eb">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">MANGALORE AERODROME</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.18459086231135,-36.888882843734294</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61ec">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">EDENHOPE</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>141.26703616250006,-37.019416401951474</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61ed">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">BENALLA</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.00940907437908,-36.55287034941962</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61ee">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">KERANG</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.94228275418251,-35.751631818062435</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61ef">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">PORTLAND</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>141.47186317237362,-38.31862468031855</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61f0">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">BALLARAT</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.7920329055001,-37.511918068168455</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61f1">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">PHILLIP ISLAND</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.32542116702555,-38.523983319904744</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61f2">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">ECHUCA</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.7609387875001,-36.15931436867369</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61f3">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">MALLACOOTA</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>149.7189107765001,-37.60022097505512</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61f4">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">POINT COOK</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.75429528263533,-37.931619270059876</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61f5">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">ESSENDON FIELDS AIRPORT</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9036312355001,-37.72955497571045</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61f6">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">DONALD</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.00681645711896,-36.364663859182315</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61f7">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">MANSFIELD 1</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.12249910050008,-37.072839421934994</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61f8">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">LEONGATHA</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.86160142650004,-38.493553052220356</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61f9">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">SHEPPARTON</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.39294895100014,-36.426094854996606</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61fa">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">HORSHAM</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.17781329450008,-36.668723319338454</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61fb">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">ST ARNAUD AERODROME</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.1845717640909,-36.64105015672001</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61fc">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">AVALON</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.46797962650007,-38.03848441412917</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61fd">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">BACCHUS MARSH</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.43061120070243,-37.73240784953908</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61fe">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">BAIRNSDALE</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>147.56721759707182,-37.88435033666144</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_61ff">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">KYNETON</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.4444628800001,-37.225822995229954</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_6200">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">GREAT LAKES AIRPORT</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>148.00316527056222,-37.84224808670637</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_6201">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">BENDIGO</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.32749718550008,-36.739471487862154</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_6202">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">YARRAM AERODROME</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.75257583466671,-38.567751774817</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_6203">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">COLAC</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.68000683774147,-38.28727939194656</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_6204">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">CORRYONG AERODROME</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>147.8868112023062,-36.183452216697376</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="airport.fid-70a927cd_165bb6edef3_6205">
+          <ExtendedData>
+            <SchemaData schemaUrl="#airport_1">
+              <SimpleData name="name">WANGARATTA</SimpleData>
+              <SimpleData name="size">airport</SimpleData>
+              <SimpleData name="user">admin</SimpleData>
+              <SimpleData name="date_created">2018-07-16T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.29966004062248,-36.41564389352175</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+  </kml>

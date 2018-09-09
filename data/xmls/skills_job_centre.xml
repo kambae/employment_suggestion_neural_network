@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+      <Schema name="skills_jobs_centre_1" id="skills_jobs_centre_1">
+        <SimpleField type="string" name="name"/>
+      </Schema>
+      <Folder>
+        <name>skills_jobs_centre</name>
+        <Placemark id="skills_jobs_centre.1">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Kangan Institute</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.91657700000002,-37.677586999087026</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.2">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Bendigo TAFE</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.28324160000003,-36.75730049909512</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.3">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Melbourne Polytechnic - Northland Shopping centre</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.029852,-37.73895599908653</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.4">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Sunraysia Institute of TAFE</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.16200300000003,-34.184865999122664</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.5">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Wodonga TAFE</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.889388,-36.12437199910123</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.6">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">RMIT</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.964106,-37.80566999908598</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.7">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Federation Training Bairnsdale</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>147.63531,-37.824933999085815</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.8">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Federation Training Sale</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>147.063842,-38.107833999083574</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.9">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">The Gordon</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.35525499999997,-38.14609099908327</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.10">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Federation Training - Warragul Campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.93335810000002,-38.164560399083136</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.11">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">South West Institute of TAFE</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.4803822,-38.38481199908146</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.12">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">GOTAFE Shepparton campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.4035236,-36.380330999098696</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.13">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">GOTAFE Wangaratta campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.31938,-36.35468599909894</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.14">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Box Hill Institute - Box Hill campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.115663,-37.815258999085906</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.15">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Box Hill Institute - Lilydale</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.34778040000003,-37.75843039908638</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.16">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Box Hill Institute - CBD Flagship campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.96567360000003,-37.8171655990859</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.17">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Chisholm</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.2139422,-37.986321699084506</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.18">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Holmesglen Chadstone</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.09055630000003,-37.87515179908543</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.19">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Victoria Polytechnic - MetroWest</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.89927500000002,-37.80149179908602</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.20">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Victoria Polytechnic - Sunshine campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.83342290000002,-37.777194599086215</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="skills_jobs_centre.21">
+          <ExtendedData>
+            <SchemaData schemaUrl="#skills_jobs_centre_1">
+              <SimpleData name="name">Swinburne</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.22917000000007,-37.81268199908592</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+  </kml>

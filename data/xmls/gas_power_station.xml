@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+      <Schema name="gas_power_station_1" id="gas_power_station_1">
+        <SimpleField type="string" name="name"/>
+        <SimpleField type="string" name="user"/>
+        <SimpleField type="string" name="last_modified"/>
+        <SimpleField type="string" name="date_created"/>
+        <SimpleField type="string" name="capacity"/>
+      </Schema>
+      <Folder>
+        <name>gas_power_station</name>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-7a9">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Brooklyn Landfill And Waste Recycling Facility Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+              <SimpleData name="capacity">2.3MW</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>144.83229685000003,-37.81778895899998 144.83224345000008,-37.818077998999954 144.83170716200007,-37.81821647099998 144.83155521600008,-37.81796215699996 144.83213150100005,-37.817784457999956 144.83229685000003,-37.81778895899998</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-7a8">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Werribee Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>144.64719332100003,-37.930322796 144.64683842300008,-37.93011418899994 144.6472709400001,-37.92963754299996 144.64762907800002,-37.92984615799997 144.64719332100003,-37.930322796</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-7a7">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Jeeralang A And B Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+              <SimpleData name="capacity">432MW</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>146.4266170300001,-38.277889472999966 146.4236440440001,-38.27751581899996 146.42390684200006,-38.27622551299993 146.42449538100004,-38.27629984199995 146.424512251,-38.27621562499996 146.42471087600006,-38.27624022799995 146.42480054600003,-38.27579670099993 146.42316796800003,-38.274688347999984 146.42342826100003,-38.27338834099994 146.4251767730001,-38.271788622999985 146.42497842400007,-38.271310988999964 146.42508051100003,-38.27121785599997 146.42865005300007,-38.27367044999993 146.42787525000006,-38.27518401399993 146.42698924500007,-38.27605063199997 146.4266170300001,-38.277889472999966</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-7a6">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Mornington Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>145.0506438440001,-38.23280419799995 145.05134401100008,-38.23301026199996 145.05090818500003,-38.233933059999984 145.05081029200005,-38.234194194999944 145.0507231800001,-38.23440604199995 145.0500319350001,-38.234204311999996 145.0502086580001,-38.23382411899996 145.05022203500005,-38.23364075999996 145.05038907500014,-38.23328398299998 145.0504190370001,-38.23329285299996 145.0506438440001,-38.23280419799995</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-7a5">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Brooklyn Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>144.8286678930001,-37.81938430499997 144.8321695410001,-37.81847810399994 144.83194144100003,-37.81971274499994 144.8286678930001,-37.81938430499997</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-7a4">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Somerton Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+              <SimpleData name="capacity">160MW</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>144.95368504200007,-37.632148135999955 144.95183159500007,-37.63194578999997 144.9519837250001,-37.63106630999993 144.95384209600002,-37.631240009999935 144.95368504200007,-37.632148135999955</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-7a3">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Clayton Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>145.11848378400012,-37.94992567299994 145.1195139450001,-37.95003797499995 145.11939992100008,-37.95057916299992 145.11837779500001,-37.950458869999984 145.11848378400012,-37.94992567299994</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-7a2">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Sunshine Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+              <SimpleData name="capacity">8.7MW</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>144.8120663940001,-37.77068786999995 144.81168873600006,-37.77064945199994 144.8118060800001,-37.76999318799996 144.8121769280001,-37.77003023399993 144.8120663940001,-37.77068786999995</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-7a1">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Bairnsdale Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>147.56267136100007,-37.84145523899997 147.56742192400006,-37.842066012999986 147.5669484220001,-37.84419051399994 147.5622987590001,-37.843541501999944 147.56267136100007,-37.84145523899997</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-7a0">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Newport Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+              <SimpleData name="capacity">500MW</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>144.89580945900005,-37.842829409999986 144.89281979500004,-37.84251125899991 144.8933136700001,-37.83955289599993 144.8934749650001,-37.838996799999975 144.8941741870001,-37.839161931999975 144.89441350700008,-37.839333132999975 144.89557878200003,-37.84122929599994 144.89642914700005,-37.84132028499995 144.89682976100005,-37.841220367999924 144.89715787600005,-37.841813557999956 144.89712594900004,-37.84191426099993 144.8958886690001,-37.84236238499995 144.89580945900005,-37.842829409999986</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-79f">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Berwick Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+              <SimpleData name="capacity">7.2MW</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>145.32983326500005,-38.004619371999986 145.3296536150001,-38.00445273199995 145.32940774000008,-38.00448290199995 145.32916852300002,-38.004330190999944 145.32947718700007,-38.00388496999996 145.3298657360001,-38.00408839899996 145.33038459400007,-38.00341058199995 145.33067588200004,-38.00353562399993 145.330381933,-38.00393558099995 145.33019271400008,-38.00385352099997 145.33012865400008,-38.00397756599996 145.33015130800004,-38.00404435299998 145.33022902300002,-38.00420144299994 145.33022199100003,-38.00429584399997 145.32983326500005,-38.004619371999986</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-79e">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Broadmeadows Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+              <SimpleData name="capacity">7.2MW</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>144.96660307700006,-37.68802095099995 144.96607984000002,-37.68795809999996 144.9661479030001,-37.68750341299996 144.96667191400002,-37.68755370399997 144.96660307700006,-37.68802095099995</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-79d">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Corio (Edl) Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+              <SimpleData name="capacity">1MW</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>144.4057525320001,-38.05893091999999 144.40531654900008,-38.05888303599994 144.40539154100009,-38.05854047099997 144.40580788500006,-38.05857890499994 144.4057525320001,-38.05893091999999</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-79c">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Laverton North Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+              <SimpleData name="capacity">320MW</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>144.78772283700005,-37.842899919999994 144.78761744400003,-37.84168138899997 144.78746995300003,-37.841542698999945 144.7895005570001,-37.84058645399995 144.79031663900003,-37.841678952999985 144.78772283700005,-37.842899919999994</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-79b">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Valley Power Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>146.58403017600006,-38.25268369999999 146.5838828210001,-38.25267539 146.58354461700003,-38.25264910499993 146.58188183300004,-38.252213499999975 146.5808953940001,-38.25182704599997 146.5812578770001,-38.25115666799997 146.58376096900008,-38.25161881099997 146.58391069800007,-38.251739733999955 146.58396211000002,-38.25191997699993 146.583996941,-38.25233937499996 146.58403017600006,-38.25268369999999</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="gas_power_station.fid-70a927cd_165bc230e78_-79a">
+          <ExtendedData>
+            <SchemaData schemaUrl="#gas_power_station_1">
+              <SimpleData name="name">Morwell Power Station</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-12T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>146.4390291100001,-38.23460882199997 146.43905214400002,-38.23447865199996 146.4386132610001,-38.23443766699995 146.438904599,-38.23369049799993 146.43922770400002,-38.23362004899995 146.43950283100003,-38.233647119999944 146.439500693,-38.233661893999965 146.43949516300006,-38.233693987999985 146.43951414800006,-38.23371192399999 146.43970530400009,-38.233729608 146.43979954400004,-38.23380093599997 146.439739991,-38.234183412999975 146.43967039100008,-38.234174243000005 146.43963952100012,-38.23418276499998 146.43961762600009,-38.23420608999993 146.43949087900012,-38.23443030099998 146.4394616530001,-38.23447162399997 146.43944043300007,-38.23449612999999 146.4394158870001,-38.23451999099997 146.43938959600007,-38.23454219699993 146.4393632120001,-38.23456313399999 146.43934204200002,-38.23457656699997 146.43931925300012,-38.23458777599996 146.4392864130001,-38.234600842999974 146.43925317700007,-38.23460993399995 146.43922146700004,-38.23461577999996 146.4391928120001,-38.234617121999996 146.4390291100001,-38.23460882199997</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+    </Document>
+  </kml>

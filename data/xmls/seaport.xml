@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+      <Schema name="seaport_1" id="seaport_1">
+        <SimpleField type="string" name="portname"/>
+        <SimpleField type="string" name="descriptio"/>
+        <SimpleField type="string" name="contact"/>
+        <SimpleField type="string" name="porttype"/>
+        <SimpleField type="string" name="user"/>
+        <SimpleField type="string" name="last_modified"/>
+        <SimpleField type="string" name="date_created"/>
+      </Schema>
+      <Folder>
+        <name>seaport</name>
+        <Placemark id="seaport.1">
+          <ExtendedData>
+            <SchemaData schemaUrl="#seaport_1">
+              <SimpleData name="portname">Melbourne</SimpleData>
+              <SimpleData name="descriptio">Station Pier Sea Passenger Terminal</SimpleData>
+              <SimpleData name="contact">http://www.portofmelbourne.com</SimpleData>
+              <SimpleData name="porttype">MAJOR</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9267605,-37.84320944908567</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="seaport.2">
+          <ExtendedData>
+            <SchemaData schemaUrl="#seaport_1">
+              <SimpleData name="portname">Port Welshpool</SimpleData>
+              <SimpleData name="contact">http://south-gippsland.com/portwelshpool.htm</SimpleData>
+              <SimpleData name="porttype">MINOR</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.466637,-38.694352999079214</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="seaport.3">
+          <ExtendedData>
+            <SchemaData schemaUrl="#seaport_1">
+              <SimpleData name="portname">Geelong</SimpleData>
+              <SimpleData name="contact">http://www.regionalchannels.vic.gov.au</SimpleData>
+              <SimpleData name="porttype">MINOR</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.3833333,-38.11666666908351</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="seaport.4">
+          <ExtendedData>
+            <SchemaData schemaUrl="#seaport_1">
+              <SimpleData name="portname">Portland</SimpleData>
+              <SimpleData name="contact">http://www.portofportland.com.au</SimpleData>
+              <SimpleData name="porttype">MINOR</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>141.61666670000002,-38.34999999908172</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+  </kml>

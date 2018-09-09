@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+      <Schema name="mfb_fire_station_1" id="mfb_fire_station_1">
+        <SimpleField type="int" name="gis_id"/>
+        <SimpleField type="string" name="name"/>
+        <SimpleField type="string" name="user"/>
+        <SimpleField type="string" name="last_modified"/>
+        <SimpleField type="string" name="date_created"/>
+      </Schema>
+      <Folder>
+        <name>mfb_fire_station</name>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-784">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666865</SimpleData>
+              <SimpleData name="name">St. Albans MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.81406623100008,-37.729744513999925</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-783">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666847</SimpleData>
+              <SimpleData name="name">Laverton MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.77060314400012,-37.86554545599994</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-782">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666845</SimpleData>
+              <SimpleData name="name">Highett MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.04420108300008,-37.94544950499995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-781">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666835</SimpleData>
+              <SimpleData name="name">Clayton MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.11664588700012,-37.93901269699995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-780">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666873</SimpleData>
+              <SimpleData name="name">Windsor MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.99126727500004,-37.856575842999966</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-77f">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666839</SimpleData>
+              <SimpleData name="name">Epping MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.02582175600003,-37.660225018999945</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-77e">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666864</SimpleData>
+              <SimpleData name="name">Spotswood MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.87639793000008,-37.82305277599995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-77d">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666848</SimpleData>
+              <SimpleData name="name">Malvern MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.04714260800006,-37.87601078799999</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-77c">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666854</SimpleData>
+              <SimpleData name="name">Nunawading MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.17777404700007,-37.81884372099996</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-77b">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666827</SimpleData>
+              <SimpleData name="name">Altona MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.81718542200008,-37.86401294699995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-77a">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666840</SimpleData>
+              <SimpleData name="name">Footscray MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.8957751160001,-37.79543979899996</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-779">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666857</SimpleData>
+              <SimpleData name="name">Pascoe Vale MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.93818519900006,-37.731746379999954</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-778">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666855</SimpleData>
+              <SimpleData name="name">Oakleigh MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.09538678400008,-37.899673817999954</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-777">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666846</SimpleData>
+              <SimpleData name="name">Keilor MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.86339741300003,-37.74082088199998</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-776">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666838</SimpleData>
+              <SimpleData name="name">Eastern Hill MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.97544427000003,-37.80890565299995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-775">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666831</SimpleData>
+              <SimpleData name="name">Brunswick MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9650957010001,-37.765945485999964</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-774">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666833</SimpleData>
+              <SimpleData name="name">Burwood MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.09821408900007,-37.85355115099998</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-773">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666852</SimpleData>
+              <SimpleData name="name">North Laverton MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.81761460500002,-37.81598095899995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-772">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666836</SimpleData>
+              <SimpleData name="name">Croydon MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.28940928400004,-37.79941165199995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-771">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666843</SimpleData>
+              <SimpleData name="name">Hawthorn MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.040229801,-37.82155499499992</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-770">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666856</SimpleData>
+              <SimpleData name="name">Ormond MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.02546664600004,-37.90182839199996</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-76f">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666841</SimpleData>
+              <SimpleData name="name">Glen Waverley MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.16447608900012,-37.90358133899998</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-76e">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666870</SimpleData>
+              <SimpleData name="name">Tullamarine MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.88215434100005,-37.684442811999936</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-76d">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666844</SimpleData>
+              <SimpleData name="name">Heidelberg MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.0498882290001,-37.752810008</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-76c">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666830</SimpleData>
+              <SimpleData name="name">Broadmeadows MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.92942137400007,-37.68629211699995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-76b">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666871</SimpleData>
+              <SimpleData name="name">Vermont South MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.16941727500011,-37.86163759199997</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-76a">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666860</SimpleData>
+              <SimpleData name="name">Richmond MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.0005071380001,-37.81258201399993</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-769">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666861</SimpleData>
+              <SimpleData name="name">Ringwood MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.2390478110001,-37.81037169599995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-768">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666842</SimpleData>
+              <SimpleData name="name">Greensborough MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.09868628700008,-37.70431988099996</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-767">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666850</SimpleData>
+              <SimpleData name="name">Newport MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.8873771530001,-37.84970571299995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-766">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666849</SimpleData>
+              <SimpleData name="name">Mentone MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.07078730500007,-37.981045688999984</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-765">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666867</SimpleData>
+              <SimpleData name="name">Taylors Lakes MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.77514100900012,-37.695719003999955</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-764">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666837</SimpleData>
+              <SimpleData name="name">Deer Park MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.77838000400004,-37.77040785299993</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-763">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666862</SimpleData>
+              <SimpleData name="name">Somerton MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9467277880001,-37.644680163999965</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-762">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666868</SimpleData>
+              <SimpleData name="name">Templestowe MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.13384411900006,-37.76239767999993</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-761">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666829</SimpleData>
+              <SimpleData name="name">Box Hill MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.128692203,-37.819011150999984</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-760">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666858</SimpleData>
+              <SimpleData name="name">Port Melbourne MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.93300061000002,-37.83320241899999</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-75f">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666866</SimpleData>
+              <SimpleData name="name">Sunshine MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.8293880980001,-37.77465424299995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-75e">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666834</SimpleData>
+              <SimpleData name="name">Carlton MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.96213325000008,-37.80388172399996</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-75d">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666872</SimpleData>
+              <SimpleData name="name">West Melbourne MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.95104285800005,-37.81064612099993</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-75c">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666851</SimpleData>
+              <SimpleData name="name">North Balwyn MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.09531358200002,-37.79169231299993</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-75b">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666869</SimpleData>
+              <SimpleData name="name">Thomastown MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.99935703500012,-37.693384536999936</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-75a">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666853</SimpleData>
+              <SimpleData name="name">Northcote MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9993850620001,-37.77198726899998</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-759">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666832</SimpleData>
+              <SimpleData name="name">Bundoora MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.04825699900005,-37.71077067099998</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-758">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666859</SimpleData>
+              <SimpleData name="name">Preston MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.99500865800007,-37.74461769</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-757">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666863</SimpleData>
+              <SimpleData name="name">South Melbourne MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9602020630001,-37.82701755299996</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="mfb_fire_station.fid-70a927cd_165bc230e78_-756">
+          <ExtendedData>
+            <SchemaData schemaUrl="#mfb_fire_station_1">
+              <SimpleData name="gis_id">666828</SimpleData>
+              <SimpleData name="name">Ascot Vale MFB</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9165821890001,-37.770588006999965</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+  </kml>

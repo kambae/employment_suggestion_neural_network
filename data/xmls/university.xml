@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+      <Schema name="university_1" id="university_1">
+        <SimpleField type="string" name="last_modified"/>
+        <SimpleField type="string" name="name"/>
+        <SimpleField type="string" name="date_created"/>
+        <SimpleField type="string" name="user"/>
+      </Schema>
+      <Folder>
+        <name>university</name>
+        <Placemark id="university.fid-70a927cd_165bc230e78_48c">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Deakin University</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <MultiGeometry>
+            <Point>
+              <coordinates>144.360327965,-38.14395633299994</coordinates>
+            </Point>
+            <Point>
+              <coordinates>145.11040048400002,-37.84616337299999</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.29632341200013,-38.19759266099993</coordinates>
+            </Point>
+            <Point>
+              <coordinates>145.11427552400005,-37.84679455999999</coordinates>
+            </Point>
+            <Point>
+              <coordinates>142.5370178300001,-38.39101098699996</coordinates>
+            </Point>
+          </MultiGeometry>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_48d">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Melbourne University - Hawthorn Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.04154216100005,-37.83761398999997</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_48e">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Federation University Australia - Horsham Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.1853102480001,-36.71222325299994</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_48f">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Federation University Australia</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <MultiGeometry>
+            <Point>
+              <coordinates>146.4285725960001,-38.31167325999997</coordinates>
+            </Point>
+            <Point>
+              <coordinates>142.1853102480001,-36.71222325299994</coordinates>
+            </Point>
+            <Point>
+              <coordinates>143.890700024,-37.62699610699997</coordinates>
+            </Point>
+          </MultiGeometry>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_490">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Latrobe University - Edwards Rd Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.30064586100002,-36.77896435499998</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_491">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Australian Catholic University</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <MultiGeometry>
+            <Point>
+              <coordinates>143.84428816500008,-37.557737486999955</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.97837327500008,-37.80782592799994</coordinates>
+            </Point>
+          </MultiGeometry>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_492">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">John Paul Ii Institute For Marriage And Family - Catholic Theological College</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.98043747800008,-37.80933782799997</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_493">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Victoria University - Melbourne Queen Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.95915508200005,-37.812507794999924</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_494">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Yarra Theological Union</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.13448283700006,-37.827264482999986</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_495">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Deakin University - Waurn Ponds Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.29632341200013,-38.19759266099993</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_496">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Latrobe University - Franklin St Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.95768402800002,-37.80972768299995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_497">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Monash University - Berwick Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.33966764800005,-38.04023207499995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_498">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Rmit University - Point Cook Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.7490433060001,-37.928937190999946</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_499">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Melbourne University - Werribee Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.69308167600005,-37.88967562899995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_49a">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Latrobe University - Bundoora Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.04845028800003,-37.72007007499997</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_49b">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Australian Catholic University - St Patricks Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.97837327500008,-37.80782592799994</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_49c">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Victoria University - Footscray Park Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.89907811700004,-37.79332969599994</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_49d">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Melbourne University - Burnley Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.02146023500006,-37.828587294999984</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_49e">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Rmit University</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <MultiGeometry>
+            <Point>
+              <coordinates>142.05694228700008,-37.74410072599995</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.7490433060001,-37.928937190999946</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.95811853600003,-37.772015926999984</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.9644306130001,-37.807851679999935</coordinates>
+            </Point>
+            <Point>
+              <coordinates>145.06500638600005,-37.679582715999985</coordinates>
+            </Point>
+          </MultiGeometry>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_49f">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Melbourne University - Parkville Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9613941660001,-37.79820629299997</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4a0">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Federation University Australia - Mount Helen Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.890700024,-37.62699610699997</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4a1">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Deakin University - Warrnambool Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.5370178300001,-38.39101098699996</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4a2">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Rmit University - Bundoora Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.06500638600005,-37.679582715999985</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4a3">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Rmit University - Brunswick Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.95811853600003,-37.772015926999984</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4a4">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Melbourne University - Dookie Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.70629613100004,-36.382815107999946</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4a5">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Victoria University - Footscray Nicholson Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.89913522000006,-37.804459520999956</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4a6">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Latrobe University - Shepparton Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.4064118870001,-36.38050219599995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4a7">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Federation University Australia - Gippsland Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.4285725960001,-38.31167325999997</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4a8">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Latrobe University - Deakin Ave Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.16361620600003,-34.183377855999936</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4a9">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Victoria University - Melbourne Flinders Lane Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9640657430001,-37.81754711399997</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4aa">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Victoria University - Melbourne Flinders Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9640267740001,-37.81812078899998</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4ab">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Victoria University - Melton Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.5653191680001,-37.707183156</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4ac">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Australian Catholic University - Aquinas Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.84428816500008,-37.557737486999955</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4ad">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Victoria University - St Albans Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.79728103900004,-37.75171948599995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4ae">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Latrobe University - Mildura Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.1677160490001,-34.20365738999994</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4af">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Rmit University - Hamilton Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.05694228700008,-37.74410072599995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4b0">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Swinburne University - Hawthorn Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.0381743920001,-37.821638044999936</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4b1">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Monash University - Parkville Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.95863883100003,-37.784001517999954</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4b2">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Deakin University - Deakin University Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.11040048400002,-37.84616337299999</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4b3">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Latrobe University</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <MultiGeometry>
+            <Point>
+              <coordinates>145.04845028800003,-37.72007007499997</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.95768402800002,-37.80972768299995</coordinates>
+            </Point>
+            <Point>
+              <coordinates>142.16361620600003,-34.183377855999936</coordinates>
+            </Point>
+            <Point>
+              <coordinates>142.1677160490001,-34.20365738999994</coordinates>
+            </Point>
+            <Point>
+              <coordinates>145.4064118870001,-36.38050219599995</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.30064586100002,-36.77896435499998</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.28974156800007,-36.78195258599993</coordinates>
+            </Point>
+            <Point>
+              <coordinates>146.84959052200009,-36.11139631399995</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.95763940900008,-37.80970548499995</coordinates>
+            </Point>
+          </MultiGeometry>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4b4">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Latrobe University - Albury-Wodonga Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.84959052200009,-36.11139631399995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4b5">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Monash University - Clayton Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.1337645000001,-37.91018227699994</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4b6">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Deakin University - Waterfront Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.360327965,-38.14395633299994</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4b7">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Victoria University</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <MultiGeometry>
+            <Point>
+              <coordinates>144.70089964300007,-37.89085600899996</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.9640267740001,-37.81812078899998</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.95915508200005,-37.812507794999924</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.95471727100005,-37.81489217099995</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.5653191680001,-37.707183156</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.79728103900004,-37.75171948599995</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.9640657430001,-37.81754711399997</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.89913522000006,-37.804459520999956</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.89907811700004,-37.79332969599994</coordinates>
+            </Point>
+          </MultiGeometry>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4b8">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">John Paul Ii Institute For Marriage And Family</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.98043747800008,-37.80933782799997</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4b9">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Victoria University - Melbourne King Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.95471727100005,-37.81489217099995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4ba">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Melbourne University - Southbank Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.96860898500006,-37.82482880599998</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4bb">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Melbourne University</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <MultiGeometry>
+            <Point>
+              <coordinates>145.04154216100005,-37.83761398999997</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.69308167600005,-37.88967562899995</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.9613941660001,-37.79820629299997</coordinates>
+            </Point>
+            <Point>
+              <coordinates>145.02146023500006,-37.828587294999984</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.96860898500006,-37.82482880599998</coordinates>
+            </Point>
+            <Point>
+              <coordinates>145.70629613100004,-36.382815107999946</coordinates>
+            </Point>
+          </MultiGeometry>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4bc">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Monash University</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <MultiGeometry>
+            <Point>
+              <coordinates>145.13569226400014,-38.152790319999966</coordinates>
+            </Point>
+            <Point>
+              <coordinates>145.1337645000001,-37.91018227699994</coordinates>
+            </Point>
+            <Point>
+              <coordinates>144.95863883100003,-37.784001517999954</coordinates>
+            </Point>
+            <Point>
+              <coordinates>145.0446825580001,-37.877069920999936</coordinates>
+            </Point>
+            <Point>
+              <coordinates>145.33966764800005,-38.04023207499995</coordinates>
+            </Point>
+          </MultiGeometry>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4bd">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Swinburne University</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.0381743920001,-37.821638044999936</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4be">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Monash University - Caufield Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.0446825580001,-37.877069920999936</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4bf">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Victoria University - Werribee Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.70089964300007,-37.89085600899996</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4c0">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Latrobe University - Osborne St Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.28974156800007,-36.78195258599993</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4c1">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Monash University - Peninsula Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.13569226400014,-38.152790319999966</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4c2">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Rmit University - City Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9644306130001,-37.807851679999935</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4c3">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Latrobe University - City Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.95763940900008,-37.80970548499995</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="university.fid-70a927cd_165bc230e78_4c4">
+          <ExtendedData>
+            <SchemaData schemaUrl="#university_1">
+              <SimpleData name="name">Deakin University - Burwood Campus</SimpleData>
+              <SimpleData name="date_created">2018-08-09T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.11427552400005,-37.84679455999999</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+  </kml>

@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+      <Schema name="tafe_1" id="tafe_1">
+        <SimpleField type="string" name="name"/>
+        <SimpleField type="string" name="campus"/>
+        <SimpleField type="bool" name="dual"/>
+        <SimpleField type="string" name="url"/>
+      </Schema>
+      <Folder>
+        <name>tafe</name>
+        <Placemark id="tafe.6">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Victoria University</SimpleData>
+              <SimpleData name="campus">ST ALBANS</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.vu.edu.au/campuses/st-albans</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.7993493,-37.74829499908644</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.4">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">South West Institute of TAFE</SimpleData>
+              <SimpleData name="campus">HAMITON</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.swtafe.vic.edu.au/home/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.00535899999997,-37.72655799908662</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.2">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Goulburn Ovens Institute of TAFE</SimpleData>
+              <SimpleData name="campus">WARRAGUL(NCDE)</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.gotafe.vic.edu.au/study-areas/foodfibre/dairy/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.933966,-38.16167849908316</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.5">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Box Hill Institute</SimpleData>
+              <SimpleData name="campus">LILYDALE LAKESIDE CAMPUS</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.boxhill.edu.au/campuses/lilydale-lakeside-campus/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.3472333,-37.76389089908633</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.8">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Box Hill Institute</SimpleData>
+              <SimpleData name="campus">LILY CAMPUS</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.boxhill.edu.au/venue/lilydale-campus-2/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.34722899999997,-37.75867499908634</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.9">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Holmesglen Institute</SimpleData>
+              <SimpleData name="campus">WAVERLEY</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.holmesglen.edu.au/about_us/campuses/waverley</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.153789,-37.885589999085326</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.10">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Victoria University</SimpleData>
+              <SimpleData name="campus">SUNSHINE</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.vu.edu.au/campuses/sunshine</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.83342290000002,-37.777194599086215</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.11">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation University Australia</SimpleData>
+              <SimpleData name="campus">BAllARAT-Mt Helen</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">http://federation.edu.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.88587949999996,-37.62446099908747</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.13">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Melbourne Polytechnic</SimpleData>
+              <SimpleData name="campus">FAIRFIELD</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.melbournepolytechnic.edu.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.00944369999996,-37.792212499086084</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.15">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Holmesglen Institute</SimpleData>
+              <SimpleData name="campus">CHADSTONE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.holmesglen.edu.au/about_us/campuses/chadstone</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.09167090000003,-37.87547409908542</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.16">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Gordon Institute of TAFE</SimpleData>
+              <SimpleData name="campus">GEELONG</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.thegordon.edu.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.3547135,-38.14828919908328</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.18">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Chisholm Institute</SimpleData>
+              <SimpleData name="campus">FRANKSTON</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.chisholm.edu.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.1271644,-38.142484899083314</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.20">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">South West Institute of TAFE</SimpleData>
+              <SimpleData name="campus">PORTLAND</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.swtafe.vic.edu.au/campuses/portland</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>141.601617,-38.33527899908183</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.21">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Wodonga Institute of TAFE</SimpleData>
+              <SimpleData name="campus">WODONGA</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.wodongatafe.edu.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.85331300000004,-36.11163399910134</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.22">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Gordon Institute of TAFE</SimpleData>
+              <SimpleData name="campus">COLAC</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.thegordon.edu.au/future-students/training-facilities/colac-campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.58652050000003,-38.34959669908174</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.24">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Goulburn Ovens Institute of TAFE</SimpleData>
+              <SimpleData name="campus">WANGARATTA</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.gotafe.vic.edu.au/campus-life/campuses/wangaratta/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.31656310000002,-36.35371039909897</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.25">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Bendigo Kangan Institute</SimpleData>
+              <SimpleData name="campus">BROADMEADOW</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.kangan.edu.au/campuses/broadmeadows</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.91777480000005,-37.679480599087015</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.28">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation Training</SimpleData>
+              <SimpleData name="campus">LEONGATHA</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.federationtraining.edu.au/campuses/leongatha</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.97560979999997,-38.48125349908075</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.29">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Holmesglen Institute</SimpleData>
+              <SimpleData name="campus">BULLI ST</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.holmesglen.edu.au/about_us/campuses/moorabbin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.05450600000003,-37.94318299908486</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.30">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation Training</SimpleData>
+              <SimpleData name="campus">YALLOURN</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.federationtraining.edu.au/campuses/yallourn</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.3007761,-38.18033289908302</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.31">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Holmesglen Institute</SimpleData>
+              <SimpleData name="campus">CITY-ST KILDA</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.holmesglen.edu.au/about_us/campuses/city</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.970658,-37.829842999085784</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.33">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Bendigo Kangan Institute</SimpleData>
+              <SimpleData name="campus">DOCKLANDS</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.kangan.edu.au/campuses/docklands</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9493217,-37.822039699085856</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.34">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation Training</SimpleData>
+              <SimpleData name="campus">SALE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.federationtraining.edu.au/campuses/sale</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>147.063842,-38.107833999083574</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.35">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Goulburn Ovens Institute of TAFE</SimpleData>
+              <SimpleData name="campus">WERRIBEE(NCDE)</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.gotafe.vic.edu.au/campus-life/campuses/werribee/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.68663800000002,-37.89248299908528</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.37">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Goulburn Ovens Institute of TAFE</SimpleData>
+              <SimpleData name="campus">BENALLA</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.gotafe.vic.edu.au/campus-life/campuses/benalla/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.9960016,-36.55508269909703</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.38">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">South West Institute of TAFE</SimpleData>
+              <SimpleData name="campus">Hamilton - Ballarat Road</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.swtafe.vic.edu.au/campuses/hamilton</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.0581391,-37.74463699908648</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.39">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Chisholm Institute</SimpleData>
+              <SimpleData name="campus">MORNINGTON PENINSULA</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.chisholm.edu.au/about-us/campus-locations/mornington-peninsula</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.88928119999997,-38.37299339908156</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.40">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Melbourne Polytechnic</SimpleData>
+              <SimpleData name="campus">PRAHRAN</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.melbournepolytechnic.edu.au/campuses/prahran</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9920177,-37.85174579908563</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.42">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Holmesglen Institute</SimpleData>
+              <SimpleData name="campus">MOORABBIN</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.holmesglen.edu.au/about_us/campuses/moorabbin</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.050439,-37.93759499908493</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.43">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation University Australia</SimpleData>
+              <SimpleData name="campus">BAllARAT-Camp</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://federation.edu.au/about-us/our-campuses/camp-st-campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.859333,-37.56098869908803</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.46">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Goulburn Ovens Institute of TAFE</SimpleData>
+              <SimpleData name="campus">SEYMOUR</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.gotafe.vic.edu.au/campus-life/campuses/seymour/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.13544659999997,-37.0206045990927</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.27">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Wodonga Institute of TAFE</SimpleData>
+              <SimpleData name="campus">DECA-SHEPPARTON</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.deca.com.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.383225,-36.35021899909899</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.47">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Melbourne Polytechnic</SimpleData>
+              <SimpleData name="campus">NORTHERN AMEP CENTRE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.melbournepolytechnic.edu.au/campuses/northern-amep-centre/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.92866509999996,-37.67855039908701</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.48">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Swinburne University of Technology</SimpleData>
+              <SimpleData name="campus">HAWTHORN</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.swinburne.edu.au/study/life/campuses/hawthorn/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.0389781,-37.82214419908584</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.50">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation University Australia</SimpleData>
+              <SimpleData name="campus">WIMMERA-Horsham</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://federation.edu.au/about-us/our-campuses/horsham-campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.192395,-36.71177489909556</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.51">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Swinburne University of Technology</SimpleData>
+              <SimpleData name="campus">WANTIRNA</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.swinburne.edu.au/study/life/campuses/wantirna/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.2331853,-37.87307489908546</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.52">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Holmesglen Institute</SimpleData>
+              <SimpleData name="campus">EILDON</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.holmesglen.edu.au/about_us/campuses/eildon</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.88045300000002,-37.26864499909052</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.54">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Wodonga Institute of TAFE</SimpleData>
+              <SimpleData name="campus">DECA-BARNAWARTHA NORTH</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.deca.com.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.72211399999998,-36.07218209910176</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.55">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Victoria University</SimpleData>
+              <SimpleData name="campus">FOOTSCRAY-Nicholson</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.vu.edu.au/campuses/footscray-nicholson</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.89876910000004,-37.80414099908601</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.57">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Sunraysia Institute of TAFE</SimpleData>
+              <SimpleData name="campus">SWAN HILL</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.sunitafe.edu.au/swan-hill/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.53401659999997,-35.34218979910937</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.59">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">William Angliss Institute of TAFE</SimpleData>
+              <SimpleData name="campus">WILLIAM ANGLISS INSTITUTE OF TAFE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.angliss.edu.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.95268900000002,-37.81337999908593</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.60">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation Training</SimpleData>
+              <SimpleData name="campus">BAIRNSDALE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.federationtraining.edu.au/campuses/bairnsdale</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>147.63531,-37.824933999085815</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.61">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Chisholm Institute</SimpleData>
+              <SimpleData name="campus">CHISHOLM@311</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.chisholm.edu.au/locations/chisholm-at-311</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.2139422,-37.986321699084506</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.62">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Chisholm Institute</SimpleData>
+              <SimpleData name="campus">CRANBOURNE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.chisholm.edu.au/locations/cranbourne</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.29193,-38.111880999083546</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.64">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Holmesglen Institute</SimpleData>
+              <SimpleData name="campus">ARDEN ST</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.holmesglen.edu.au/about_us/campuses/north_melbourne</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.944511,-37.80017399908603</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.65">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Victoria University</SimpleData>
+              <SimpleData name="campus">WERRIBEE</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.vu.edu.au/campuses/werribee</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.7009937,-37.89281119908527</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.66">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation Training</SimpleData>
+              <SimpleData name="campus">WARRAGUL</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.federationtraining.edu.au/campuses/warragul</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.933374,-38.16462599908313</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.69">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Chisholm Institute</SimpleData>
+              <SimpleData name="campus">BERWICK</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.chisholm.edu.au/locations/berwick</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.3444,-38.0420839990841</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.68">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Box Hill Institute</SimpleData>
+              <SimpleData name="campus">BOX HILL CAMPUS</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.boxhill.edu.au/campuses/box-hill-campus/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.11498490000002,-37.81551189908589</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.70">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Melbourne Polytechnic</SimpleData>
+              <SimpleData name="campus">EPPING</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.melbournepolytechnic.edu.au/campuses/epping/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.0315365,-37.65265019908725</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.73">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Gordon Institute of TAFE</SimpleData>
+              <SimpleData name="campus">Hoppers Crossing</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.thegordon.edu.au/about/contact/werribee-and-hoppers-crossing</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.711357,-37.87733799908539</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.76">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Gordon Institute of TAFE</SimpleData>
+              <SimpleData name="campus">EAST GEELONG</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.thegordon.edu.au/about/contact/east-geelong-campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.38565220000004,-38.16239399908315</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.75">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Sunraysia Institute of TAFE</SimpleData>
+              <SimpleData name="campus">ROBINVALE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.sunitafe.edu.au/robinvale/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.77098600000002,-34.5853258991179</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.77">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Melbourne Polytechnic</SimpleData>
+              <SimpleData name="campus">HEIDELBERG</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.melbournepolytechnic.edu.au/campuses/heidelberg/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.04601759999997,-37.75107659908643</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.80">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Melbourne Polytechnic</SimpleData>
+              <SimpleData name="campus">COLLINGWOOD</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.melbournepolytechnic.edu.au/campuses/collingwood/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.98558220000004,-37.80033639908602</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.81">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Chisholm Institute</SimpleData>
+              <SimpleData name="campus">DANDENONG</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.chisholm.edu.au/locations/dandenong</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.2219031,-37.975896999084625</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.82">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Bendigo Kangan Institute</SimpleData>
+              <SimpleData name="campus">RICHMOND</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.kangan.edu.au/campuses/richmond</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.99068480000003,-37.82784099908581</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.85">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation Training</SimpleData>
+              <SimpleData name="campus">FULHAM</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.federationtraining.edu.au/campuses/sale</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.97343769999998,-38.098211199083664</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.86">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Bendigo Kangan Institute</SimpleData>
+              <SimpleData name="campus">BENDIGO CHARLESTON RD CAMPUS</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.bendigotafe.edu.au/aboutbendigotafe/campuslocations/Pages/Bendigo-campuses.aspx</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.29250080000003,-36.753968399095136</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.1">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Victoria University</SimpleData>
+              <SimpleData name="campus">MELBOURNE-Flinders</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.vu.edu.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.964254,-37.818168999085884</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.3">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Bendigo Kangan Institute</SimpleData>
+              <SimpleData name="campus">MOONEE PONDS</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.kangan.edu.au/campuses/moonee-ponds</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.922365,-37.76636999908633</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.7">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Royal Melbourne Institute of Technology</SimpleData>
+              <SimpleData name="campus">CITY</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.rmit.edu.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9637968,-37.80958969908594</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.12">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Bendigo Kangan Institute</SimpleData>
+              <SimpleData name="campus">BENDIGO CITY CAMPUS</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.kangan.edu.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.28355000000002,-36.757306999095114</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.19">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Victoria University</SimpleData>
+              <SimpleData name="campus">FOOTSCRAY PARK</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.vu.edu.au/campuses/footscray-park</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.89649730000002,-37.79330429908608</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.23">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Victoria University</SimpleData>
+              <SimpleData name="campus">MELBOURNE-King</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.vu.edu.au/campuses/city-king</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.954726,-37.81486299908592</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.26">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Goulburn Ovens Institute of TAFE</SimpleData>
+              <SimpleData name="campus">TERANG(NCDE)</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.gotafe.vic.edu.au/campus-life/campuses/terang/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.87437,-38.26527299908237</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.32">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Royal Melbourne Institute of Technology</SimpleData>
+              <SimpleData name="campus">BRUNSWICK</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.rmit.edu.au/about/our-locations-and-facilities/locations/melbourne-brunswick-campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.95768199999998,-37.77193299908627</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.36">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">South West Institute of TAFE</SimpleData>
+              <SimpleData name="campus">WARRNAMBOOL</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.swtafe.vic.edu.au/campuses/warrnambool</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.48140000000004,-38.38256819908148</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.41">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation Training</SimpleData>
+              <SimpleData name="campus">MORWELL</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.federationtraining.edu.au/campuses/morwell</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.41954409999997,-38.23953869908255</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.44">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Sunraysia Institute of TAFE</SimpleData>
+              <SimpleData name="campus">MILDURA</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.sunitafe.edu.au/mildura/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.16924400000002,-34.20402099912243</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.45">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation Training</SimpleData>
+              <SimpleData name="campus">TRARALGON</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.federationtraining.edu.au/campuses/traralgon</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.5378619,-38.198248299082884</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.49">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Royal Melbourne Institute of Technology</SimpleData>
+              <SimpleData name="campus">BUNDOORA</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.rmit.edu.au/about/our-locations-and-facilities/locations/melbourne-bundoora-campus</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.0586019,-37.69911249908686</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.53">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Melbourne Polytechnic</SimpleData>
+              <SimpleData name="campus">PRESTON</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.melbournepolytechnic.edu.au/campuses/preston/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.99867420000004,-37.74055289908651</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.58">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation Training</SimpleData>
+              <SimpleData name="campus">CHADSTONE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.federationtraining.edu.au/campuses/chadstone</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.09165600000003,-37.885981999085324</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.63">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Goulburn Ovens Institute of TAFE</SimpleData>
+              <SimpleData name="campus">SHEPPARTON</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.gotafe.vic.edu.au/campus-life/campuses/shepparton/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.38401140000002,-36.34754419909902</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.67">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Goulburn Ovens Institute of TAFE</SimpleData>
+              <SimpleData name="campus">SHEPPARTON</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.gotafe.vic.edu.au/campus-life/campuses/shepparton/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.40283070000004,-36.379476099098724</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.71">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation Training</SimpleData>
+              <SimpleData name="campus">LAKES ENTRANCE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.federationtraining.edu.au/campuses/lakes_entrance</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>147.9709505,-37.884740699085334</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.78">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Chisholm Institute</SimpleData>
+              <SimpleData name="campus">BASS COAST</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.chisholm.edu.au/locations/bass-coast</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.58097240000004,-38.588807399079954</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.83">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Swinburne University of Technology</SimpleData>
+              <SimpleData name="campus">CROYDON</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.swinburne.edu.au/study/life/campuses/croydon/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.28576,-37.801685999086025</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.87">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Melbourne Polytechnic</SimpleData>
+              <SimpleData name="campus">Greensborough</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.melbournepolytechnic.edu.au/campuses/greensborough/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>145.11114699999996,-37.688361999086936</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.88">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Gordon Institute of TAFE</SimpleData>
+              <SimpleData name="campus">WERRIBEE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.thegordon.edu.au/quick-links/news-pages/werribee</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.66019,-37.90296799908521</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.89">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Box Hill Institute</SimpleData>
+              <SimpleData name="campus">CITY CAMPUS</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.boxhill.edu.au/campuses/city-campus/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.96598300000002,-37.817038999085895</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.14">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Bendigo Kangan Institute</SimpleData>
+              <SimpleData name="campus">ECHUCA Campus</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.bendigotafe.edu.au/aboutbendigotafe/campuslocations/Pages/Echuca-campus.aspx</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.75689770000002,-36.129726399101166</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.17">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Bendigo Kangan Institute</SimpleData>
+              <SimpleData name="campus">BTEC CAMPUS</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.bendigotafe.edu.au/Courses/areas-of-study/Pages/BTEC.aspx</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.284413,-36.76024899909512</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.79">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Bendigo Kangan Institute</SimpleData>
+              <SimpleData name="campus">CASTLEMAINE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">http://www.bendigotafe.edu.au/aboutbendigotafe/campuslocations/pages/castlemaine-campus.aspx</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.2189308,-37.06345229909234</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.74">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Federation University Australia</SimpleData>
+              <SimpleData name="campus">BALLARAT-Gillies</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://federation.edu.au/staff/business-and-communication/timetables/room-resource/gillies-st</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>143.822536,-37.53720299908819</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.84">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Melbourne Polytechnic</SimpleData>
+              <SimpleData name="campus">PRAHRAN</SimpleData>
+              <SimpleData name="dual">true</SimpleData>
+              <SimpleData name="url">https://www.melbournepolytechnic.edu.au/campuses/prahran</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>144.9920177,-37.85174579908563</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.56">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Sunraysia Institute of TAFE</SimpleData>
+              <SimpleData name="campus">MALLEE</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.sunitafe.edu.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>142.314609,-35.06984299911237</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark id="tafe.72">
+          <ExtendedData>
+            <SchemaData schemaUrl="#tafe_1">
+              <SimpleData name="name">Wodonga Institute of TAFE</SimpleData>
+              <SimpleData name="campus">DECA-NEWBOROUGH</SimpleData>
+              <SimpleData name="dual">false</SimpleData>
+              <SimpleData name="url">https://www.deca.com.au/</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Point>
+            <coordinates>146.29627960000002,-38.17850699908303</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Document>
+  </kml>

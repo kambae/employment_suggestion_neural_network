@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+      <Schema name="hydro_power_station_1" id="hydro_power_station_1">
+        <SimpleField type="string" name="capacity"/>
+        <SimpleField type="string" name="date_created"/>
+        <SimpleField type="string" name="last_modified"/>
+        <SimpleField type="string" name="user"/>
+        <SimpleField type="string" name="name"/>
+      </Schema>
+      <Folder>
+        <name>hydro_power_station</name>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-798">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="capacity">140MW</SimpleData>
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Bogong (Kiewa No 2) Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>147.2286363060001,-36.80709082099999 147.22856629700004,-36.806978884999985 147.22865861100001,-36.80693394699996 147.22872556100003,-36.807052485999975 147.2286363060001,-36.80709082099999</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-797">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Thomson Dam Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>146.4001503490001,-37.84558078499997 146.40034202000004,-37.84544028599998 146.40064767700008,-37.84566978699995 146.40044870200006,-37.84582024699994 146.4001503490001,-37.84558078499997</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-796">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="capacity">62MW</SimpleData>
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">West Kiewa (Kiewa No 4) Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>147.1861979890001,-36.76045915299996 147.18550538700003,-36.760289390999965 147.18529182300006,-36.759777190999955 147.18581404600002,-36.75973196099995 147.18620491200014,-36.75980993699994 147.1861979890001,-36.76045915299996</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-795">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Rubicon Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>145.86514298500003,-37.37396908399996 145.86510538000005,-37.37381018099994 145.8654064360001,-37.37375085299994 145.86545952500012,-37.373921889999984 145.86514298500003,-37.37396908399996</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-794">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Rubicon Falls Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>145.84789466000007,-37.34022228299993 145.84775259200012,-37.34020818999995 145.84777165000003,-37.34011456499998 145.84791136900003,-37.34012962999999 145.84789466000007,-37.34022228299993</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-793">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="capacity">13.5MW</SimpleData>
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Lower Rubicon Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>145.8605730490001,-37.32732881899994 145.8605026770001,-37.32731202399998 145.86045373800007,-37.32729543499995 145.86039827800005,-37.32726800599996 145.86049775700008,-37.32701589199997 145.8604757480001,-37.326960770999975 145.86047157100006,-37.32692371799993 145.86052845200004,-37.32679055199997 145.86055137000005,-37.32677642699997 145.86060521100012,-37.32678147299999 145.86062349000008,-37.32669855799996 145.8605904510001,-37.32644365999993 145.86055791500007,-37.32640557599996 145.86066521700005,-37.32640406199995 145.86070166100012,-37.32641246899994 145.8607393860001,-37.326754288999965 145.86073012300008,-37.32678340999998 145.8607436210001,-37.326974906 145.86101968200012,-37.32706922299997 145.86099471300008,-37.32713545999997 145.86095179100008,-37.32722167199996 145.8609182660001,-37.327270703999964 145.86075955700005,-37.32725607999999 145.86067303100003,-37.327306611999965 145.86064039000007,-37.327296232 145.86062373400011,-37.327313195999984 145.86059742400005,-37.32730185899994 145.8605730490001,-37.32732881899994</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-792">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Banimboola Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>147.45922219500005,-36.53429613299994 147.4594110840001,-36.534184024999945 147.45955723600002,-36.53434739599992 147.45936509700005,-36.53446512599995 147.45922219500005,-36.53429613299994</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-791">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="capacity">120MW</SimpleData>
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Eildon Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>145.9211908750001,-37.22498765599994 145.920252064,-37.22474114199996 145.9208162210001,-37.22343749999994 145.92168785600006,-37.223650948999946 145.9211908750001,-37.22498765599994</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-790">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Blue Rock Dam Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>146.2300428000001,-38.07923435899994 146.23026253900002,-38.07910836699996 146.23047225000005,-38.07932691699995 146.23025251100012,-38.079452909999944 146.2300428000001,-38.07923435899994</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-78f">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="capacity">4.5MW</SimpleData>
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Eildon Pondage Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>145.8974916830001,-37.24311482499998 145.89732091400003,-37.242938861999974 145.89748609000003,-37.24284513399995 145.897644946,-37.243032749999934 145.8974916830001,-37.24311482499998</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-78e">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="capacity">9.45MW</SimpleData>
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Yarrawonga Weir Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>145.99948018600006,-36.00951237099998 145.99936488000003,-36.00928263399992 145.9995524730001,-36.00922948099999 145.9996645750001,-36.00945333199996 145.99948018600006,-36.00951237099998</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-78d">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Dartmouth Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>147.52005234600006,-36.55619752699994 147.52053235100004,-36.55558193699996 147.52147903200012,-36.55586968499995 147.52108766000003,-36.55653860699995 147.52049892500008,-36.556328163999986 147.52018050700008,-36.55625213799995 147.52005234600006,-36.55619752699994</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-78c">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="capacity">24MW</SimpleData>
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Clover (Kiewa No 3) Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>147.21963568900003,-36.78625268099995 147.2187257170001,-36.786245549999926 147.2188370900001,-36.784380802999976 147.22019615800002,-36.78431902699999 147.22142690500004,-36.78553568599995 147.21963568900003,-36.78625268099995</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-78b">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="capacity">150MW</SimpleData>
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Mckay Creek (Kiewa No 1) Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>147.23639304800008,-36.859522134999956 147.23346835500004,-36.85908981199999 147.2318126800001,-36.858782087999934 147.23266027800003,-36.85797209499998 147.23642246500006,-36.857761913999994 147.23691701400003,-36.85847222299997 147.23639304800008,-36.859522134999956</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-78a">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Glenmaggie Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>146.8010044140001,-37.904947725999925 146.80153847900013,-37.90465586199998 146.80177154000012,-37.904924633999954 146.80123693200005,-37.905193338999936 146.8010044140001,-37.904947725999925</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-789">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Silvan Cardinia System</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>145.3981356820001,-37.951700581999944 145.39824446400007,-37.95159855799994 145.39846605000002,-37.95174015699995 145.3983521370001,-37.95184219799995 145.3981356820001,-37.951700581999944</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-788">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="capacity">1.5MW</SimpleData>
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">William Hovell Power Station</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>146.39213946300003,-36.912942039999976 146.39210591000005,-36.91287841299994 146.39221737100002,-36.91284208699994 146.39225595000005,-36.912908656999946 146.39213946300003,-36.912942039999976</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark id="hydro_power_station.fid-70a927cd_165bc230e78_-787">
+          <ExtendedData>
+            <SchemaData schemaUrl="#hydro_power_station_1">
+              <SimpleData name="capacity">2MW</SimpleData>
+              <SimpleData name="date_created">2018-08-13T14:00:00Z</SimpleData>
+              <SimpleData name="user">db_admin</SimpleData>
+              <SimpleData name="name">Cairn Curran Power Plant</SimpleData>
+            </SchemaData>
+          </ExtendedData>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>143.9693076740001,-36.98873274399995 143.9691121640001,-36.98853344099995 143.9694845800001,-36.98831748599998 143.9696817460001,-36.98849977699995 143.9693076740001,-36.98873274399995</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+    </Document>
+  </kml>
