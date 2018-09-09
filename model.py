@@ -12,9 +12,11 @@ import keras.backend as k
 
 model = Sequential()
 model.add(Dense(32, input_shape=(19,)))
-model.add(Activation("tanh"))
+model.add(Activation("relu"))
 model.add(Dense(64))
-model.add(Activation("tanh"))
+model.add(Activation("relu"))
+model.add(Dense(64))
+model.add(Activation("relu"))
 model.add(Dropout(0.2))
 model.add(Dense(1))
 model.add(Activation('linear'))
@@ -63,10 +65,11 @@ data_file = open("data/all_data.pkl", "wb+")
 pickle.dump([X_train, X_test, y_train, y_test], data_file)
 
 
-model.fit(x=X_train, y=y_train, epochs=200, validation_split=0.2, verbose=1, batch_size=128)
+model.fit(x=X_train, y=y_train, epochs=175, validation_split=0.2, verbose=1, batch_size=128)
+print("\n"*20)
 
-print(model.predict(X_test))
-print(np.average(np.abs(y_test - model.predict(X_test))))
+print([min(100, i[0]) for i in model.predict(X_test)])
+
 
 
 def suggest_improvements(Xs):
